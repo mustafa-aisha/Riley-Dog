@@ -22,24 +22,10 @@ img {
     img {
         width: 100%;
     }
-    .container {
-        width: 100%;
-        align-items: center;
-    }
-    .bio {
-        width: 100px;
-    }
-    #details{
-        width: 100px;
-    } 
-    #apply {
-        margin-right: 10px;
-    }
     html {
         max-width: 100%;
-        padding: 10px;
-        margin-left: 10px;
     }
+    
 }
 
 h1{
@@ -83,15 +69,7 @@ h1{
     display: flex;
     flex-direction: column;
 }
-@media only screen and (max-width:480px){
-    .data {
-        margin-left: 5px;
-    }
-    .first,
-    .second {
-        padding-right: 5px;
-    }
-}
+
 
 #details {
     width: 350px;
