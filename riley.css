@@ -25,7 +25,22 @@ img {
     html {
         max-width: 100%;
     }
-    
+    .bio {
+        margin-left: 0px;
+    }
+    .first, 
+    .second {
+        padding-right: 5px;
+    }
+    #details {
+        margin-left: 0px;
+    }
+    #apply {
+        margin-right: 10px;
+    }
+    .data {
+        margin-left: 10px;
+    }  
 }
 
 h1{
