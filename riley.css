@@ -24,6 +24,8 @@ img {
     }
     html {
         max-width: 100%;
+        margin-left: 10px;
+        marging-right: 10px;
     }
     .bio {
         margin-left: 0px;
