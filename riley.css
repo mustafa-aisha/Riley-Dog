@@ -27,11 +27,14 @@ img {
         align-items: center;
     }
     .bio {
-        width: 250px;
+        width: 100px;
     }
     #details{
-        width: 200px;
+        width: 100px;
     } 
+    #apply {
+        margin-right: 0px;
+    }
 }
 
 h1{
