@@ -35,6 +35,9 @@ img {
     #apply {
         margin-right: 0px;
     }
+    html {
+        max-width: 250px;
+    }
 }
 
 h1{
